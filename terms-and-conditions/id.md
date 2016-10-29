@@ -2,7 +2,7 @@ Aplikasi Mobile TAXIES (Aplikasi) tidak untuk dijual kepada anda. Dengan menggun
 
 Dalam syarat dan ketentuan penggunaan, istilah berikut mempunyai arti sebagai berikut, kecuali konteksnya menentukan lain:
 
-### 1. DEFINISI
+### A. DEFINISI
 
 TAXIES adalah sebuah aplikasi mobile untuk pemesanan taksi. Taxies bukan penyedia jasa transportasi. Taxies bekerjasama dengan perusahaan-perusahaan taksi resmi dalam menyediakan layanan transportasi kepada pengguna. Tarif yang diberlakukan kepada pengguna adalah tarif berdasarkan argo yang tertera pada armada mitra taksi pada saat selesai perjalanan. Fitur yang saat ini tersedia dalam aplikasi Taxies diantaranya: 
 
@@ -14,17 +14,17 @@ TAXIES adalah sebuah aplikasi mobile untuk pemesanan taksi. Taxies bukan penyedi
 - Profile : identitas pengguna yaitu foto, nama, e-mail dan nomor handphone
 - Setting : pengaturan bahasa, rating aplikasi, laporan error/bug aplikasi dan logout akun pengguna 
 
-### 2. KEWAJIBAN ANDA
+### B. KEWAJIBAN ANDA
 
 - Penawaran Promo bahwa anda setuju untuk mematuhi syarat dan kondisi dari promo yang anda pilih.
 - Informasi akurat bahwa anda menjamin semua informasi yang diberikan tentang pendaftaran dan seluruh bagian dari akun anda adalah benar, lengkap, akurat dan bahwa anda akan segera menginformasikan kepada kami setiap perubahan informasi tersebut dengan memperbarui informasi dalam akun anda.
 - Konten pada Aplikasi bahwa anda bertanggung jawab untuk memastikan setiap produk dan informasi yang tersedia melalui aplikasi memenuhi kebutuhan spesifik anda sebelum membuat pemesanan apapun.
 
-### 3. BATASAN KEWAJIBAN
+### C. BATASAN KEWAJIBAN
 
 Kami dapat, tanpa kewajiban apapun untuk anda, memodifikasi persyaratan penggunaan tanpa pemberitahuan sewaktu-waktu. Anda terus menggunakan aplikasi berikut modifikasi persyaratan penggunaan akan dianggap penerimaan modifikasi tersebut. Jika anda tidak menerima dan mematuhi ketentuan penggunaan, anda tidak dapat menggunakan atau mengunduh aplikasi. Penggunaan aplikasi ini resiko anda sendiri. Setiap aplikasi yang disediakan secara sebagaimana adanya dan sebagaimana tersedia. Kami tidak membuat jaminan, melepaskan tanggung jawab dan kewajiban untuk ketersediaan, ketepatan waktu, keamanan, kualitas aplikasi apapun terkait produk lainnya, layanan, informasi yang diperoleh melalui aplikasi. Kami tidak memiliki kewajiban atau tanggung jawab untuk penghapusan, atau kegagalan menyimpan atau mengirim isi dan informasi lainnya yang dikelola atau dikirim oleh aplikasi. Kami tidak bertanggung jawab atas kebenaran atau keandalan informasi atau saran yang dikirim melalui aplikasi. Kami mungkin, setiap saat, membatasi penggunaan atau menghentikan aplikasi. Sejauh hukum yang berlaku, dalam keadaan apapun kami tidak bertanggung jawab atas kerugian atau kerusakan apapun. Beberapa wilayah hukum tidak mengizinkan pengecualian atau pembatasan kerusakan tertentu, sehingga pembatasan atau pengecualian mungkin tidak berlaku untuk anda. Dalam keadaan apapun kewajiban total kami untuk anda melebihi jumlah sebenarnya anda bayarkan (jika ada) untuk aplikasi dan perangkat lunak terkait.
 
-### 4. GANTI RUGI
+### D. GANTI RUGI
 
 Anda setuju untuk mengganti kerugian dan menjaga kami terhadap klaim, tindakan, gugatan atau proses dibawa atau terancam untuk dibawa melawan kami yang disebabkan oleh atau timbul dari :
 
@@ -32,23 +32,23 @@ Anda setuju untuk mengganti kerugian dan menjaga kami terhadap klaim, tindakan, 
 - Penggunaan pihak lain untuk Layanan menggunakan ID pengguna dan / atau nomor pengenal yang berlaku, dan / atau
 - Pelanggaran Anda dari setiap Syarat dan Ketentuan Penggunaan, dan menanggung biaya kerusakan, biaya dan bunga terkait dengan klaim, tindakan atau proses gugatan.
  
-### 5. HUKUM YANG BERLAKU DAN YURISDIKSI
+### E. HUKUM YANG BERLAKU DAN YURISDIKSI
 
 - Aplikasi Mobile TAXIES dapat diakses di daerah Yogyakarta Indonesia. Karena setiap tempat-tempat memiliki perbedaan undang-undang, dengan mengakses Aplikasi Mobile TAXIES Anda dan kami setuju dan tunduk pada hukum negara Republik Indonesia, tanpa memperhatikan konflik prinsip-prinsip hukum daripadanya, akan berlaku untuk semua hal yang berkaitan dengan penggunaan Aplikasi Mobile TAXIES.
 - Anda menerima dan menyetujui bahwa Anda dan kami akan tunduk pada yuridiksi eksklusif Pengadilan Republik Indonesia sehubungan dengan perselisihan yang timbul dari dan / atau sehubungan dengan Syarat dan Ketentuan Penggunaan.
  
-### 6. AMANDEMEN
+### F. AMANDEMEN
 
 - Kami secara berkala melakukan perubahan isi dari Aplikasi Mobile TAXIES, termasuk dengan deskripsi dan harga barang dan jasa yang diiklankan, setiap saat dan tanpa pemberitahuan. Kami menganggap tidak ada kewajiban atau tanggung jawab atas kesalahan atau kelalaian dalam isi Aplikasi Mobile TAXIES.
 - Kami berhak untuk mengubah Syarat dan Ketentuan Penggunaan dari waktu ke waktu tanpa pemberitahuan. Syarat revisi dan Ketentuan Penggunaan akan diposting di Aplikasi Mobile TAXIES dan berlaku dari tanggal posting tersebut. Anda disarankan untuk meninjau syarat dan ketentuan ini secara berkala karena mereka mengikat Anda.
 
 
-### 7. PERUBAHAN PERSYARATAN PENGGUNAAN
+### G. PERUBAHAN PERSYARATAN PENGGUNAAN
 
 - Kami berhak untuk mengubah, memodifikasi, menambah atau menghapus bagian manapun dari Persyaratan, secara keseluruhan atau sebagian, setiap saat.
 - Perubahan Persyaratan akan efektif bila diposting. Penggunaan Anda terhadap situs, aplikasi mobile atau media sosial setelah perubahan apapun untuk Persyaratan yang diposting akan dianggap penerimaan atas perubahan tersebut.
 
-### 8. KEBIJAKAN PRIVASI
+### H. KEBIJAKAN PRIVASI
 
 Akses ke Aplikasi Mobile TAXIES dan penggunaan Layanan yang ditawarkan di Aplikasi Mobile TAXIES oleh CV. Oxx Indonesia dan / atau kelompok perusahaan yang tunduk pada Kebijakan Privasi ini. Dengan mengakses Aplikasi Mobile TAXIES dan dengan menggunakan Layanan yang ditawarkan, Anda dianggap telah menerima Kebijakan Privasi ini, dan khususnya, Anda dianggap telah menyetujui penggunaan dan pengungkapan informasi pribadi Anda dengan cara yang ditentukan dalam Kebijakan Privasi.
 
@@ -65,6 +65,6 @@ Sebagai bagian dari operasi normal dari layanan kami, kami mengumpulkan, menggun
 
 Kami berkomitmen untuk menjalankan bisnis kami sesuai dengan prinsip-prinsip ini dalam rangka untuk memastikan bahwa kerahasiaan informasi pribadi dilindungi dan dipelihara.
 
-### 9. KONTAK
+### I. KONTAK
 
 Jika Anda memiliki pertanyaan atau masalah tentang Aplikasi Mobile TAXIES, silahkan hubungi info@Taxies.co.id.
