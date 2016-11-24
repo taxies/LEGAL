@@ -1,14 +1,14 @@
 Please read this Privacy Policy carefully to make sure that you understand how the provisions of the Privacy Policy . This Privacy Policy describes how we collect, use, transfer, disclose and protect your personal information that can be identified through our app . Privacy Policy is included as part of our Terms of Use . This Privacy Policy covers the following matters:
 
-A. [Definitions](#a-definitions)
-B. [Personal User Data](#b-your-personal-data)
-C. [Use of Personal Data Users](#c-use-of-your-personal-data)
-D. [Provision of Personal Data Users](#d-provision-of-personal-data-users)
-E. [Security](#e-security)
-F. [Privacy Policy Changes](#f-privacy-policy-changes)
-G. [Language, Law and Jurisdiction](#g-governing-law-and-jurisdiction)
-H. [Approval](#h-approval)
-I. [Contact us](#i-contact-us)
+[A. Definitions](#a-definitions)
+[B. Personal User Data](#b-your-personal-data)
+[C. Use of Personal Data Users](#c-use-of-your-personal-data)
+[D. Provision of Personal Data Users](#d-provision-of-personal-data-users)
+[E. Security](#e-security)
+[F. Privacy Policy Changes](#f-privacy-policy-changes)
+[G. Language, Law and Jurisdiction](#g-governing-law-and-jurisdiction)
+[H. Approval](#h-approval)
+[I. Contact us](#i-contact-us)
  
 You agree and agree subject to the Terms of Use and Privacy Policy Your use of applications and services
 

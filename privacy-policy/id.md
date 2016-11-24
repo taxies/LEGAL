@@ -1,14 +1,14 @@
 Mohon anda membaca Kebijakan Privasi ini dengan seksama untuk memastikan bahwa anda memahami bagaimana ketentuan Kebijakan Privasi. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, memindahkan, mengungkapkan dan melindungi informasi pribadi anda yang dapat diidentifikasi melalui Aplikasi kami. Kebijakan Privasi disertakan sebagai bagian dari Ketentuan Penggunaan kami. Kebijakan Privasi ini mencakup hal-hal sebagai berikut:
 
-A. [Definisi](#a-definisi)
-B. [Data Pribadi Pengguna](#b-data-pribadi-anda)
-C. [Penggunaan Data Pribadi Pengguna](#c-penggunaan-data-pribadi-anda)
-D. [Pemberian Data Pribadi Pengguna](#d-pemberian-data-pribadi-pengguna)
-E. [Keamanan](#e-keamanan)
-F. [Perubahan Kebijakan Privasi](#f-perubahan-kebijakan-privasi)
-G. [Bahasa, Hukum dan Yurisdiksi](#g-hukum-dan-yurisdiksi)
-H. [Persetujuan](#h-persetujuan)
-I. [Kontak kami](#i-kontak-kami)
+[A. Definisi](#a-definisi)
+[B. Data Pribadi Pengguna](#b-data-pribadi-anda)
+[C. Penggunaan Data Pribadi Pengguna](#c-penggunaan-data-pribadi-anda)
+[D. Pemberian Data Pribadi Pengguna](#d-pemberian-data-pribadi-pengguna)
+[E. Keamanan](#e-keamanan)
+[F. Perubahan Kebijakan Privasi](#f-perubahan-kebijakan-privasi)
+[G. Bahasa, Hukum dan Yurisdiksi](#g-hukum-dan-yurisdiksi)
+[H. Persetujuan](#h-persetujuan)
+[I. Kontak kami](#i-kontak-kami)
 
 Anda setuju dan sepakat tunduk pada Ketentuan Penggunaan dan Kebijakan Privasi Penggunaan anda atas aplikasi dan layanan kami
 
